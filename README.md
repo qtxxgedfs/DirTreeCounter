@@ -2,10 +2,6 @@
 A Python script that generates a visual directory tree and counts files/folders in a specified directory.
 
 
-# Directory Structure Analyzer
-
-A Python script that generates a visual directory tree and counts files/folders in a specified directory.
-
 ## Features
 
 - Recursively traverses all subdirectories
