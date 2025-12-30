@@ -23,3 +23,25 @@ A Python script that generates a visual directory tree and counts files/folders 
 2. Modify the target directory path in the script:
    ```python
    args.path = r"Your\target\directory\path"
+
+
+
+
+## 📂 Directory structure: C:\example
+============================================================
+├── 📁 docs
+│   ├── ├── 📄 README.md
+│   └── └── 📄 INSTALL.md
+├── 📁 src
+│   ├── ├── 📁 modules
+│   │   └── └── 📄 utils.py
+│   └── └── 📄 main.py
+└── 📄 .gitignore
+============================================================
+📊 Statistics:
+Total folders: 3
+Total files: 4
+Total items: 7
+
+✅ Results saved to: C:\scripts\tree-count-directory-stats.txt
+
