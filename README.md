@@ -25,9 +25,9 @@ A Python script that generates a visual directory tree and counts files/folders 
    args.path = r"Your\target\directory\path"
 
 
-
-
-## 📂 Directory structure: C:\example
+### Example
+```python
+📂 Directory structure: C:\example
 ============================================================
 ├── 📁 docs
 │   ├── ├── 📄 README.md
